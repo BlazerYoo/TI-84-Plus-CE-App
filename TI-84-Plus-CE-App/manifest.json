@@ -1,0 +1,21 @@
+{
+"update_url": "https://clients2.google.com/service/update2/crx",
+
+    "manifest_version": 2,
+    "name": "TI-84 Plus CE App for Chrome OS",
+    "short_name": "TI-84 Plus CE App",
+    "version": "1.0.1.17",
+    "version_name": "1.0.1.17 beta",
+    "description": "Rock remote learning with the TI-84 Plus CE App for Chromebooks!",
+    "icons": {
+        "16": "calculator-16.png", "128": "calculator-128.png"
+    },
+    "permissions": [
+    ],
+    "app": {
+        "background": {
+            "scripts": ["background.min.js"]
+        }
+    },
+    "minimum_chrome_version": "66"
+}

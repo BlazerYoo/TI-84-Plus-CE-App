@@ -1,0 +1,48 @@
+/*
+ Copyright (C) 2020, Texas Instruments.  All rights reserved. 
+*/
+html {
+  width: 100%;
+  height: 100%;
+  background-color: #58585B;
+}
+
+.content {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  vertical-align: middle;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  height: 100vh;
+}
+
+.content #calc_ico {
+  width: 128px;
+  height: 128px;
+}
+
+.content .white-text {
+  color: #E5E3E6;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 19px;
+  margin: 30px 23px 35px 23px;
+}
+
+.content .white-text strong {
+  color: #fff;
+}
+
+.content #ti_logo {
+  width: 126px;
+  height: 30px;
+}

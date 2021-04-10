@@ -1,6 +1,6 @@
 # TI-84-Plus-CE-App
 
-The TI-84 Plus CE App is available here https://chrome.google.com/webstore/detail/ti-84-plus-ce-app-for-chr/compdaiogbfdpildfbleipdcglmmlojo.
+The original TI-84 Plus CE App is available here https://chrome.google.com/webstore/detail/ti-84-plus-ce-app-for-chr/compdaiogbfdpildfbleipdcglmmlojo.
 
 When you go to that link on a non-Chrome OS device, you cannot install the app.
 
